@@ -1,0 +1,58 @@
+exports[`test it displays it children at the bottom of the drop area. 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "MozBorderRadius": 5,
+        "OBorderRadius": 5,
+        "WebkitBorderRadius": 5,
+        "WebkitJustifyContent": "space-between",
+        "borderColor": "#D4D4D5",
+        "borderRadius": 5,
+        "borderStyle": "dashed",
+        "borderWidth": 2,
+        "color": "#D4D4D5",
+        "display": "flex",
+        "flexDirection": "column",
+        "height": "auto",
+        "justifyContent": "space-between",
+        "margin": 10,
+        "msBorderRadius": 5,
+        "padding": 5,
+      }
+    }>
+    <span
+      style={
+        Object {
+          "WebkitJustifyContent": "center",
+          "display": "flex",
+          "justifyContent": "center",
+          "marginTop": 50,
+        }
+      }>
+      <i
+        aria-hidden="true"
+        className="cloud upload large icon" />
+      <span>
+        Drop files here to upload, 
+      </span>
+      <a
+        href="#"
+        style={
+          Object {
+            "marginLeft": 5,
+          }
+        }>
+         or browse
+      </a>
+    </span>
+    <div
+      style={
+        Object {
+          "margin": 10,
+          "paddingTop": 20,
+        }
+      } />
+  </div>
+</div>
+`;

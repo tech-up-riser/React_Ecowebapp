@@ -1,0 +1,18 @@
+exports[`test it displays the serach input. 1`] = `
+<div>
+  <div
+    className="ui icon input"
+    style={
+      Object {
+        "width": "100%",
+      }
+    }>
+    <input
+      placeholder="Search..."
+      type="text" />
+    <i
+      aria-hidden="true"
+      className="search icon" />
+  </div>
+</div>
+`;

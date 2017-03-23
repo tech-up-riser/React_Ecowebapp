@@ -1,0 +1,53 @@
+exports[`test it displays the given comment. 1`] = `
+<div
+  className="comment">
+  <div
+    className="ui feed">
+    <div
+      className="event">
+      <div
+        className="label"
+        style={
+          Object {
+            "position": "relative",
+          }
+        }>
+        <img
+          src="http://semantic-ui.com/images/avatar/small/elliot.jpg" />
+        <i
+          aria-hidden="true"
+          className="green circle icon"
+          style={
+            Object {
+              "fontSize": 10,
+              "marginLeft": -20,
+              "marginTop": 20,
+              "position": "absolute",
+            }
+          } />
+      </div>
+      <div
+        className="content">
+        <div
+          className="summary">
+          <div>
+            User 0
+            commented on this post
+          </div>
+          <div
+            className="date">
+            1/1/2016
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="ui comments"
+    style={
+      Object {
+        "paddingTop": 0,
+      }
+    } />
+</div>
+`;

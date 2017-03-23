@@ -1,0 +1,8 @@
+exports[`test it displays the given children in a semantic-ui-react Label. 1`] = `
+<div
+  className="ui green tiny basic label"
+  onClick={[Function]}
+  title="Test Title">
+  Test Logbook
+</div>
+`;

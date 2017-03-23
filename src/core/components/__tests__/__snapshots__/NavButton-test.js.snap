@@ -1,0 +1,8 @@
+exports[`test it displays its children as the label of the item. 1`] = `
+<button
+  className="ui blue button"
+  onClick={[Function]}
+  tabIndex={undefined}>
+  Test Child
+</button>
+`;

@@ -1,0 +1,16 @@
+exports[`test it displays label next to the arrow. 1`] = `
+<button
+  className="ui inverted button"
+  onClick={[Function]}
+  tabIndex={undefined}>
+  Test label
+  <i
+    aria-hidden="true"
+    className="angle down icon"
+    style={
+      Object {
+        "marginLeft": 15,
+      }
+    } />
+</button>
+`;

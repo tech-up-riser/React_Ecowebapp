@@ -1,0 +1,21 @@
+exports[`test it displays the given icon. 1`] = `
+<div
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  style={
+    Object {
+      "WebkitJustifyContent": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "justifyContent": "center",
+    }
+  }>
+  <div>
+    Test Icon
+  </div>
+</div>
+`;

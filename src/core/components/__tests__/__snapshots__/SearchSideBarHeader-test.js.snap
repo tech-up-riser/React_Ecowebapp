@@ -1,0 +1,67 @@
+exports[`test the catigories selector is displayed, if catigories are given 1`] = `
+<div
+  style={
+    Object {
+      "WebkitJustifyContent": "space-between",
+      "display": "flex",
+      "height": 20,
+      "justifyContent": "space-between",
+    }
+  }>
+  <h3
+    style={
+      Object {
+        "color": "#5e656a",
+      }
+    } />
+  <div>
+    NYI: catigorie selector
+  </div>
+  <i
+    aria-hidden="true"
+    className="grey minus circle large inverted icon"
+    onClick={undefined} />
+</div>
+`;
+
+exports[`test the open button is displayed, when collapsed 1`] = `
+<div
+  style={
+    Object {
+      "WebkitJustifyContent": "flex-end",
+      "display": "flex",
+      "height": 20,
+      "justifyContent": "flex-end",
+    }
+  }>
+  <i
+    aria-hidden="true"
+    className="content large icon"
+    onClick={undefined} />
+</div>
+`;
+
+exports[`test the title is displayed, when expaned 1`] = `
+<div
+  style={
+    Object {
+      "WebkitJustifyContent": "space-between",
+      "display": "flex",
+      "height": 20,
+      "justifyContent": "space-between",
+    }
+  }>
+  <h3
+    style={
+      Object {
+        "color": "#5e656a",
+      }
+    }>
+    Test Title
+  </h3>
+  <i
+    aria-hidden="true"
+    className="grey minus circle large inverted icon"
+    onClick={undefined} />
+</div>
+`;

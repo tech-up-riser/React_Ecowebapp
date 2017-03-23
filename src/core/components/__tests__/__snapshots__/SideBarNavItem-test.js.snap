@@ -1,0 +1,26 @@
+exports[`test when expanded, it displays its label next to its text. 1`] = `
+<span>
+  <i
+    className="test-icon" />
+  <span
+    style={
+      Object {
+        "paddingLeft": 25,
+      }
+    }>
+    Test Label
+  </span>
+</span>
+`;
+
+exports[`test when not expanded, it just displays an icon and puts the label in a popup. 1`] = `
+<span
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  <i
+    className="test-icon" />
+</span>
+`;

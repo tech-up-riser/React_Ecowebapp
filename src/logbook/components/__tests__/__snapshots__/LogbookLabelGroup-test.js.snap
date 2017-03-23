@@ -1,0 +1,120 @@
+exports[`test it displays a single label when only one is given. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "marginTop": 5,
+    }
+  }>
+  <div
+    style={
+      Object {
+        "marginLeft": 5,
+        "position": "relative",
+        "zIndex": 1,
+      }
+    }>
+    <div>
+      Test Label
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it displays the entier element of every label when multiple labels and the showAll prop are given. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "marginTop": 5,
+    }
+  }>
+  <div
+    style={
+      Object {
+        "marginLeft": 5,
+        "position": "relative",
+        "zIndex": 3,
+      }
+    }>
+    <div>
+      Test Label 0
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "left": undefined,
+        "marginLeft": 5,
+        "position": "relative",
+        "zIndex": 2,
+      }
+    }>
+    <div>
+      Test Label 1
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "left": undefined,
+        "marginLeft": 5,
+        "position": "relative",
+        "zIndex": 1,
+      }
+    }>
+    <div>
+      Test Label 2
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it displays the entier top label on top of the remaining ones when multiple are given. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "marginTop": 5,
+    }
+  }>
+  <div
+    style={
+      Object {
+        "marginLeft": 5,
+        "position": "relative",
+        "zIndex": 3,
+      }
+    }>
+    <div>
+      Test Label 0
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "left": -50,
+        "marginLeft": 5,
+        "position": "relative",
+        "zIndex": 2,
+      }
+    }>
+    <div>
+      Test Label 1
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "left": -100,
+        "marginLeft": 5,
+        "position": "relative",
+        "zIndex": 1,
+      }
+    }>
+    <div>
+      Test Label 2
+    </div>
+  </div>
+</div>
+`;

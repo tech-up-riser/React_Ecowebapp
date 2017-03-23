@@ -1,0 +1,1493 @@
+exports[`test it displays an empty drop area if no attachments are given. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={Object {}}>
+    <div
+      className="attachSection">
+      <div
+        style={
+          Object {
+            "paddingBottom": 15,
+            "paddingTop": 20,
+          }
+        }>
+        <a
+          onClick={[Function]}
+          style={Object {}}>
+          <i
+            aria-hidden="true"
+            className="attach icon"
+            style={
+              Object {
+                "fontSize": "20px",
+              }
+            } />
+          <span
+            style={
+              Object {
+                "fontSize": "15px",
+              }
+            }>
+            attachment
+          </span>
+        </a>
+        <p
+          style={
+            Object {
+              "paddingLeft": 10,
+              "paddingTop": 15,
+            }
+          } />
+      </div>
+      <div
+        className="ui fitted divider" />
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "display": "flex",
+        "flex": "1 0 1px",
+        "flexDirection": "row",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }>
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+              "height": "100%",
+              "width": "100%",
+            }
+          }>
+          <div
+            style={Object {}}>
+            <div
+              className="customerSection">
+              <div
+                style={
+                  Object {
+                    "paddingBottom": 15,
+                    "paddingLeft": 20,
+                    "paddingTop": 15,
+                  }
+                }>
+                <div>
+                  <span
+                    style={
+                      Object {
+                        "fontWeight": "bold",
+                      }
+                    }>
+                    Customer
+                  </span>
+                </div>
+                <div
+                  className="ui two column grid">
+                  <div
+                    className="row">
+                    <div
+                      className="column"
+                      style={
+                        Object {
+                          "paddingTop": 10,
+                        }
+                      }>
+                      <span>
+                        Dominic M.Tarango
+                      </span>
+                       
+                      <br />
+                      <a
+                        onClick={[Function]}
+                        style={Object {}}>
+                        <i
+                          aria-hidden="true"
+                          className="phone icon"
+                          style={
+                            Object {
+                              "fontSize": "20px",
+                            }
+                          } />
+                        <span
+                          style={
+                            Object {
+                              "fontSize": "15px",
+                            }
+                          }>
+                          828-231-5361
+                        </span>
+                      </a>
+                    </div>
+                    <div
+                      className="column">
+                      <span
+                        style={
+                          Object {
+                            "fontWeight": "bold",
+                          }
+                        }>
+                        Nature of Request:
+                      </span>
+                      <span>
+                        Sewer backup now
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span
+                    style={
+                      Object {
+                        "paddingRight": 30,
+                      }
+                    }>
+                    2004 McVaney Road. Asheville, NC 28801
+                  </span>
+                  <i
+                    aria-hidden="true"
+                    className="pencil bordered icon"
+                    style={
+                      Object {
+                        "fontSize": "15px",
+                      }
+                    } />
+                </div>
+                <div
+                  style={
+                    Object {
+                      "fontWeight": "bold",
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span>
+                    Problem Location
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span
+                    style={
+                      Object {
+                        "paddingRight": 30,
+                      }
+                    }>
+                    3455 Flinderation Road, IL 60605
+                  </span>
+                  <i
+                    aria-hidden="true"
+                    className="pencil bordered icon"
+                    style={
+                      Object {
+                        "fontSize": "15px",
+                      }
+                    } />
+                </div>
+              </div>
+              <div
+                className="ui fitted divider" />
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "MozBoxFlex": "1 0 1px",
+                "WebkitBoxFlex": "1 0 1px",
+                "WebkitFlex": "1 0 1px",
+                "display": "flex",
+                "flex": "1 0 1px",
+                "flexDirection": "row",
+                "msFlex": "1 0 1px",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "position": "relative",
+                  "width": "100%",
+                }
+              }>
+              <div
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 15,
+                      "paddingLeft": 20,
+                      "paddingTop": 15,
+                    }
+                  }>
+                  <div>
+                    <span
+                      style={
+                        Object {
+                          "fontWeight": "bold",
+                        }
+                      }>
+                      Attachments
+                    </span>
+                    <div
+                      aria-busy={undefined}
+                      aria-disabled={undefined}
+                      aria-expanded={false}
+                      aria-multiselectable={undefined}
+                      className="ui pointing link item top right dropdown"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onMouseDown={[Function]}
+                      role="listbox"
+                      style={
+                        Object {
+                          "float": "right",
+                          "fontSize": 20,
+                          "paddingRight": 15,
+                        }
+                      }
+                      tabIndex={0}>
+                      <div
+                        className="text" />
+                      <i
+                        aria-hidden="true"
+                        className="angle down icon" />
+                      <div
+                        className="menu transition">
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Sort By Name
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Sort By Date
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Ascending
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Descending
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Thumbnails
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          List
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Download All
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Manage Attachments
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "MozBorderRadius": 5,
+                          "OBorderRadius": 5,
+                          "WebkitBorderRadius": 5,
+                          "WebkitJustifyContent": "space-between",
+                          "borderColor": "#D4D4D5",
+                          "borderRadius": 5,
+                          "borderStyle": "dashed",
+                          "borderWidth": 2,
+                          "color": "#D4D4D5",
+                          "display": "flex",
+                          "flexDirection": "column",
+                          "height": "auto",
+                          "justifyContent": "space-between",
+                          "margin": 10,
+                          "msBorderRadius": 5,
+                          "padding": 5,
+                        }
+                      }>
+                      <span
+                        style={
+                          Object {
+                            "WebkitJustifyContent": "center",
+                            "display": "flex",
+                            "justifyContent": "center",
+                            "marginTop": 50,
+                          }
+                        }>
+                        <i
+                          aria-hidden="true"
+                          className="cloud upload large icon" />
+                        <span>
+                          Drop files here to upload, 
+                        </span>
+                        <a
+                          href="#"
+                          style={
+                            Object {
+                              "marginLeft": 5,
+                            }
+                          }>
+                           or browse
+                        </a>
+                      </span>
+                      <div
+                        style={
+                          Object {
+                            "margin": 10,
+                            "paddingTop": 20,
+                          }
+                        } />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it displays description for the given communication. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={Object {}}>
+    <div
+      className="attachSection">
+      <div
+        style={
+          Object {
+            "paddingBottom": 15,
+            "paddingTop": 20,
+          }
+        }>
+        <a
+          onClick={[Function]}
+          style={Object {}}>
+          <i
+            aria-hidden="true"
+            className="attach icon"
+            style={
+              Object {
+                "fontSize": "20px",
+              }
+            } />
+          <span
+            style={
+              Object {
+                "fontSize": "15px",
+              }
+            }>
+            attachment
+          </span>
+        </a>
+        <p
+          style={
+            Object {
+              "paddingLeft": 10,
+              "paddingTop": 15,
+            }
+          }>
+          Test description
+        </p>
+      </div>
+      <div
+        className="ui fitted divider" />
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "display": "flex",
+        "flex": "1 0 1px",
+        "flexDirection": "row",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }>
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+              "height": "100%",
+              "width": "100%",
+            }
+          }>
+          <div
+            style={Object {}}>
+            <div
+              className="customerSection">
+              <div
+                style={
+                  Object {
+                    "paddingBottom": 15,
+                    "paddingLeft": 20,
+                    "paddingTop": 15,
+                  }
+                }>
+                <div>
+                  <span
+                    style={
+                      Object {
+                        "fontWeight": "bold",
+                      }
+                    }>
+                    Customer
+                  </span>
+                </div>
+                <div
+                  className="ui two column grid">
+                  <div
+                    className="row">
+                    <div
+                      className="column"
+                      style={
+                        Object {
+                          "paddingTop": 10,
+                        }
+                      }>
+                      <span>
+                        Dominic M.Tarango
+                      </span>
+                       
+                      <br />
+                      <a
+                        onClick={[Function]}
+                        style={Object {}}>
+                        <i
+                          aria-hidden="true"
+                          className="phone icon"
+                          style={
+                            Object {
+                              "fontSize": "20px",
+                            }
+                          } />
+                        <span
+                          style={
+                            Object {
+                              "fontSize": "15px",
+                            }
+                          }>
+                          828-231-5361
+                        </span>
+                      </a>
+                    </div>
+                    <div
+                      className="column">
+                      <span
+                        style={
+                          Object {
+                            "fontWeight": "bold",
+                          }
+                        }>
+                        Nature of Request:
+                      </span>
+                      <span>
+                        Sewer backup now
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span
+                    style={
+                      Object {
+                        "paddingRight": 30,
+                      }
+                    }>
+                    2004 McVaney Road. Asheville, NC 28801
+                  </span>
+                  <i
+                    aria-hidden="true"
+                    className="pencil bordered icon"
+                    style={
+                      Object {
+                        "fontSize": "15px",
+                      }
+                    } />
+                </div>
+                <div
+                  style={
+                    Object {
+                      "fontWeight": "bold",
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span>
+                    Problem Location
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span
+                    style={
+                      Object {
+                        "paddingRight": 30,
+                      }
+                    }>
+                    3455 Flinderation Road, IL 60605
+                  </span>
+                  <i
+                    aria-hidden="true"
+                    className="pencil bordered icon"
+                    style={
+                      Object {
+                        "fontSize": "15px",
+                      }
+                    } />
+                </div>
+              </div>
+              <div
+                className="ui fitted divider" />
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "MozBoxFlex": "1 0 1px",
+                "WebkitBoxFlex": "1 0 1px",
+                "WebkitFlex": "1 0 1px",
+                "display": "flex",
+                "flex": "1 0 1px",
+                "flexDirection": "row",
+                "msFlex": "1 0 1px",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "position": "relative",
+                  "width": "100%",
+                }
+              }>
+              <div
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 15,
+                      "paddingLeft": 20,
+                      "paddingTop": 15,
+                    }
+                  }>
+                  <div>
+                    <span
+                      style={
+                        Object {
+                          "fontWeight": "bold",
+                        }
+                      }>
+                      Attachments
+                    </span>
+                    <div
+                      aria-busy={undefined}
+                      aria-disabled={undefined}
+                      aria-expanded={false}
+                      aria-multiselectable={undefined}
+                      className="ui pointing link item top right dropdown"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onMouseDown={[Function]}
+                      role="listbox"
+                      style={
+                        Object {
+                          "float": "right",
+                          "fontSize": 20,
+                          "paddingRight": 15,
+                        }
+                      }
+                      tabIndex={0}>
+                      <div
+                        className="text" />
+                      <i
+                        aria-hidden="true"
+                        className="angle down icon" />
+                      <div
+                        className="menu transition">
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Sort By Name
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Sort By Date
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Ascending
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Descending
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Thumbnails
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          List
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Download All
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Manage Attachments
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "MozBorderRadius": 5,
+                          "OBorderRadius": 5,
+                          "WebkitBorderRadius": 5,
+                          "WebkitJustifyContent": "space-between",
+                          "borderColor": "#D4D4D5",
+                          "borderRadius": 5,
+                          "borderStyle": "dashed",
+                          "borderWidth": 2,
+                          "color": "#D4D4D5",
+                          "display": "flex",
+                          "flexDirection": "column",
+                          "height": "auto",
+                          "justifyContent": "space-between",
+                          "margin": 10,
+                          "msBorderRadius": 5,
+                          "padding": 5,
+                        }
+                      }>
+                      <span
+                        style={
+                          Object {
+                            "WebkitJustifyContent": "center",
+                            "display": "flex",
+                            "justifyContent": "center",
+                            "marginTop": 50,
+                          }
+                        }>
+                        <i
+                          aria-hidden="true"
+                          className="cloud upload large icon" />
+                        <span>
+                          Drop files here to upload, 
+                        </span>
+                        <a
+                          href="#"
+                          style={
+                            Object {
+                              "marginLeft": 5,
+                            }
+                          }>
+                           or browse
+                        </a>
+                      </span>
+                      <div
+                        style={
+                          Object {
+                            "margin": 10,
+                            "paddingTop": 20,
+                          }
+                        } />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it displays the given attachments in the drop area. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={Object {}}>
+    <div
+      className="attachSection">
+      <div
+        style={
+          Object {
+            "paddingBottom": 15,
+            "paddingTop": 20,
+          }
+        }>
+        <a
+          onClick={[Function]}
+          style={Object {}}>
+          <i
+            aria-hidden="true"
+            className="attach icon"
+            style={
+              Object {
+                "fontSize": "20px",
+              }
+            } />
+          <span
+            style={
+              Object {
+                "fontSize": "15px",
+              }
+            }>
+            attachment
+          </span>
+        </a>
+        <p
+          style={
+            Object {
+              "paddingLeft": 10,
+              "paddingTop": 15,
+            }
+          } />
+      </div>
+      <div
+        className="ui fitted divider" />
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "display": "flex",
+        "flex": "1 0 1px",
+        "flexDirection": "row",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }>
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+              "height": "100%",
+              "width": "100%",
+            }
+          }>
+          <div
+            style={Object {}}>
+            <div
+              className="customerSection">
+              <div
+                style={
+                  Object {
+                    "paddingBottom": 15,
+                    "paddingLeft": 20,
+                    "paddingTop": 15,
+                  }
+                }>
+                <div>
+                  <span
+                    style={
+                      Object {
+                        "fontWeight": "bold",
+                      }
+                    }>
+                    Customer
+                  </span>
+                </div>
+                <div
+                  className="ui two column grid">
+                  <div
+                    className="row">
+                    <div
+                      className="column"
+                      style={
+                        Object {
+                          "paddingTop": 10,
+                        }
+                      }>
+                      <span>
+                        Dominic M.Tarango
+                      </span>
+                       
+                      <br />
+                      <a
+                        onClick={[Function]}
+                        style={Object {}}>
+                        <i
+                          aria-hidden="true"
+                          className="phone icon"
+                          style={
+                            Object {
+                              "fontSize": "20px",
+                            }
+                          } />
+                        <span
+                          style={
+                            Object {
+                              "fontSize": "15px",
+                            }
+                          }>
+                          828-231-5361
+                        </span>
+                      </a>
+                    </div>
+                    <div
+                      className="column">
+                      <span
+                        style={
+                          Object {
+                            "fontWeight": "bold",
+                          }
+                        }>
+                        Nature of Request:
+                      </span>
+                      <span>
+                        Sewer backup now
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span
+                    style={
+                      Object {
+                        "paddingRight": 30,
+                      }
+                    }>
+                    2004 McVaney Road. Asheville, NC 28801
+                  </span>
+                  <i
+                    aria-hidden="true"
+                    className="pencil bordered icon"
+                    style={
+                      Object {
+                        "fontSize": "15px",
+                      }
+                    } />
+                </div>
+                <div
+                  style={
+                    Object {
+                      "fontWeight": "bold",
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span>
+                    Problem Location
+                  </span>
+                </div>
+                <div
+                  style={
+                    Object {
+                      "paddingTop": 10,
+                    }
+                  }>
+                  <span
+                    style={
+                      Object {
+                        "paddingRight": 30,
+                      }
+                    }>
+                    3455 Flinderation Road, IL 60605
+                  </span>
+                  <i
+                    aria-hidden="true"
+                    className="pencil bordered icon"
+                    style={
+                      Object {
+                        "fontSize": "15px",
+                      }
+                    } />
+                </div>
+              </div>
+              <div
+                className="ui fitted divider" />
+            </div>
+          </div>
+          <div
+            style={
+              Object {
+                "MozBoxFlex": "1 0 1px",
+                "WebkitBoxFlex": "1 0 1px",
+                "WebkitFlex": "1 0 1px",
+                "display": "flex",
+                "flex": "1 0 1px",
+                "flexDirection": "row",
+                "msFlex": "1 0 1px",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "position": "relative",
+                  "width": "100%",
+                }
+              }>
+              <div
+                style={
+                  Object {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  }
+                }>
+                <div
+                  style={
+                    Object {
+                      "paddingBottom": 15,
+                      "paddingLeft": 20,
+                      "paddingTop": 15,
+                    }
+                  }>
+                  <div>
+                    <span
+                      style={
+                        Object {
+                          "fontWeight": "bold",
+                        }
+                      }>
+                      Attachments
+                    </span>
+                    <div
+                      aria-busy={undefined}
+                      aria-disabled={undefined}
+                      aria-expanded={false}
+                      aria-multiselectable={undefined}
+                      className="ui pointing link item top right dropdown"
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onMouseDown={[Function]}
+                      role="listbox"
+                      style={
+                        Object {
+                          "float": "right",
+                          "fontSize": 20,
+                          "paddingRight": 15,
+                        }
+                      }
+                      tabIndex={0}>
+                      <div
+                        className="text" />
+                      <i
+                        aria-hidden="true"
+                        className="angle down icon" />
+                      <div
+                        className="menu transition">
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Sort By Name
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Sort By Date
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Ascending
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Descending
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Thumbnails
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          List
+                        </div>
+                        <div
+                          className="divider" />
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Download All
+                        </div>
+                        <div
+                          aria-checked={undefined}
+                          aria-disabled={undefined}
+                          aria-selected={undefined}
+                          className="item"
+                          onClick={[Function]}
+                          role="option">
+                          Manage Attachments
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      style={
+                        Object {
+                          "MozBorderRadius": 5,
+                          "OBorderRadius": 5,
+                          "WebkitBorderRadius": 5,
+                          "WebkitJustifyContent": "space-between",
+                          "borderColor": "#D4D4D5",
+                          "borderRadius": 5,
+                          "borderStyle": "dashed",
+                          "borderWidth": 2,
+                          "color": "#D4D4D5",
+                          "display": "flex",
+                          "flexDirection": "column",
+                          "height": "auto",
+                          "justifyContent": "space-between",
+                          "margin": 10,
+                          "msBorderRadius": 5,
+                          "padding": 5,
+                        }
+                      }>
+                      <span
+                        style={
+                          Object {
+                            "WebkitJustifyContent": "center",
+                            "display": "flex",
+                            "justifyContent": "center",
+                            "marginTop": 50,
+                          }
+                        }>
+                        <i
+                          aria-hidden="true"
+                          className="cloud upload large icon" />
+                        <span>
+                          Drop files here to upload, 
+                        </span>
+                        <a
+                          href="#"
+                          style={
+                            Object {
+                              "marginLeft": 5,
+                            }
+                          }>
+                           or browse
+                        </a>
+                      </span>
+                      <div
+                        style={
+                          Object {
+                            "margin": 10,
+                            "paddingTop": 20,
+                          }
+                        }>
+                        <div
+                          className="ui cards">
+                          <div
+                            className="ui card"
+                            href={undefined}
+                            onClick={[Function]}
+                            style={
+                              Object {
+                                "width": 150,
+                              }
+                            }>
+                            <div
+                              className="content">
+                              <i
+                                aria-hidden="true"
+                                className="file pdf outline huge icon"
+                                style={
+                                  Object {
+                                    "marginLeft": 25,
+                                  }
+                                } />
+                            </div>
+                            <div
+                              className="content">
+                              <div
+                                className="meta">
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#4183C4",
+                                      "fontSize": 12,
+                                    }
+                                  }>
+                                  TestFile0.pdf
+                                </span>
+                              </div>
+                              <div
+                                className="description"
+                                style={
+                                  Object {
+                                    "fontSize": 11,
+                                  }
+                                }>
+                                January 3, 2017
+                                 
+                                67.0 KB
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            className="ui card"
+                            href={undefined}
+                            onClick={[Function]}
+                            style={
+                              Object {
+                                "width": 150,
+                              }
+                            }>
+                            <div
+                              className="content">
+                              <i
+                                aria-hidden="true"
+                                className="file pdf outline huge icon"
+                                style={
+                                  Object {
+                                    "marginLeft": 25,
+                                  }
+                                } />
+                            </div>
+                            <div
+                              className="content">
+                              <div
+                                className="meta">
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#4183C4",
+                                      "fontSize": 12,
+                                    }
+                                  }>
+                                  TestFile1.pdf
+                                </span>
+                              </div>
+                              <div
+                                className="description"
+                                style={
+                                  Object {
+                                    "fontSize": 11,
+                                  }
+                                }>
+                                January 4, 2017
+                                 
+                                67.1 KB
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            className="ui card"
+                            href={undefined}
+                            onClick={[Function]}
+                            style={
+                              Object {
+                                "width": 150,
+                              }
+                            }>
+                            <div
+                              className="content">
+                              <i
+                                aria-hidden="true"
+                                className="file pdf outline huge icon"
+                                style={
+                                  Object {
+                                    "marginLeft": 25,
+                                  }
+                                } />
+                            </div>
+                            <div
+                              className="content">
+                              <div
+                                className="meta">
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#4183C4",
+                                      "fontSize": 12,
+                                    }
+                                  }>
+                                  TestFile2.pdf
+                                </span>
+                              </div>
+                              <div
+                                className="description"
+                                style={
+                                  Object {
+                                    "fontSize": 11,
+                                  }
+                                }>
+                                January 5, 2017
+                                 
+                                67.2 KB
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

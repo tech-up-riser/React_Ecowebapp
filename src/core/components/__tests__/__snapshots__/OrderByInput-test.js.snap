@@ -1,0 +1,179 @@
+exports[`test it displays the serach order controls. 1`] = `
+<div>
+  <span
+    style={
+      Object {
+        "paddingRight": 5,
+      }
+    }>
+    Order By: 
+  </span>
+  <div
+    aria-busy={undefined}
+    aria-disabled={undefined}
+    aria-expanded={false}
+    aria-multiselectable={undefined}
+    className="ui selection dropdown"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onMouseDown={[Function]}
+    role="listbox"
+    tabIndex={0}>
+    <select
+      aria-hidden="true"
+      multiple={undefined}
+      name={undefined}
+      type="hidden"
+      value="">
+      <option
+        value="" />
+    </select>
+    <div
+      className="default text">
+      Order
+    </div>
+    <i
+      aria-hidden="true"
+      className="dropdown icon" />
+    <div
+      className="menu transition" />
+  </div>
+  <i
+    aria-hidden="true"
+    className="long arrow up fitted icon"
+    style={
+      Object {
+        "paddingLeft": 5,
+        "paddingRight": 5,
+      }
+    } />
+  <button
+    className="ui blue button"
+    onClick={[Function]}
+    tabIndex={undefined}>
+    Clear
+  </button>
+</div>
+`;
+
+exports[`test it displays the up and down arrow depending on the direction prop. 1`] = `
+<div>
+  <span
+    style={
+      Object {
+        "paddingRight": 5,
+      }
+    }>
+    Order By: 
+  </span>
+  <div
+    aria-busy={undefined}
+    aria-disabled={undefined}
+    aria-expanded={false}
+    aria-multiselectable={undefined}
+    className="ui selection dropdown"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onMouseDown={[Function]}
+    role="listbox"
+    tabIndex={0}>
+    <select
+      aria-hidden="true"
+      multiple={undefined}
+      name={undefined}
+      type="hidden"
+      value="">
+      <option
+        value="" />
+    </select>
+    <div
+      className="default text">
+      Order
+    </div>
+    <i
+      aria-hidden="true"
+      className="dropdown icon" />
+    <div
+      className="menu transition" />
+  </div>
+  <i
+    aria-hidden="true"
+    className="long arrow up fitted icon"
+    style={
+      Object {
+        "paddingLeft": 5,
+        "paddingRight": 5,
+      }
+    } />
+  <button
+    className="ui blue button"
+    onClick={[Function]}
+    tabIndex={undefined}>
+    Clear
+  </button>
+</div>
+`;
+
+exports[`test it displays the up and down arrow depending on the direction prop. 2`] = `
+<div>
+  <span
+    style={
+      Object {
+        "paddingRight": 5,
+      }
+    }>
+    Order By: 
+  </span>
+  <div
+    aria-busy={undefined}
+    aria-disabled={undefined}
+    aria-expanded={false}
+    aria-multiselectable={undefined}
+    className="ui selection dropdown"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onMouseDown={[Function]}
+    role="listbox"
+    tabIndex={0}>
+    <select
+      aria-hidden="true"
+      multiple={undefined}
+      name={undefined}
+      type="hidden"
+      value="">
+      <option
+        value="" />
+    </select>
+    <div
+      className="default text">
+      Order
+    </div>
+    <i
+      aria-hidden="true"
+      className="dropdown icon" />
+    <div
+      className="menu transition" />
+  </div>
+  <i
+    aria-hidden="true"
+    className="long arrow down fitted icon"
+    style={
+      Object {
+        "paddingLeft": 5,
+        "paddingRight": 5,
+      }
+    } />
+  <button
+    className="ui blue button"
+    onClick={[Function]}
+    tabIndex={undefined}>
+    Clear
+  </button>
+</div>
+`;

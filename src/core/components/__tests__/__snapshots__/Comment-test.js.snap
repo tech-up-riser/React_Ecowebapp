@@ -1,0 +1,333 @@
+exports[`test it displays the given comment. 1`] = `
+<div
+  className="event">
+  <div
+    className="label"
+    style={
+      Object {
+        "position": "relative",
+      }
+    }>
+    <img
+      src="http://semantic-ui.com/images/avatar/small/elliot.jpg" />
+    <i
+      aria-hidden="true"
+      className="green circle icon"
+      style={
+        Object {
+          "fontSize": 10,
+          "marginLeft": -20,
+          "marginTop": 20,
+          "position": "absolute",
+        }
+      } />
+  </div>
+  <div
+    className="content"
+    style={
+      Object {
+        "marginTop": -15,
+      }
+    }>
+    <div
+      className="meta"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "borderRight": "1px solid #d4d4d5",
+            "display": "table-cell",
+            "fontSize": 14,
+            "width": 200,
+          }
+        }>
+        <span
+          style={
+            Object {
+              "color": "#4183c4",
+            }
+          }>
+          User 0
+        </span>
+        <br />
+        <span>
+          1/1/2016
+        </span>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "table-cell",
+            "width": 100,
+          }
+        }>
+        <i
+          aria-hidden="true"
+          className="green power icon"
+          style={
+            Object {
+              "fontSize": 14,
+              "paddingLeft": 18,
+              "paddingTop": 10,
+              "position": "absolute",
+              "zIndex": "1001",
+            }
+          } />
+        <div
+          aria-busy={undefined}
+          aria-disabled={undefined}
+          aria-expanded={false}
+          aria-multiselectable={undefined}
+          className="ui selection dropdown"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onMouseDown={[Function]}
+          role="listbox"
+          style={
+            Object {
+              "border": "none",
+              "fontSize": 14,
+              "paddingLeft": 42,
+            }
+          }
+          tabIndex={0}>
+          <select
+            aria-hidden="true"
+            multiple={undefined}
+            name={undefined}
+            type="hidden"
+            value="active">
+            <option
+              value="" />
+            <option
+              value="active">
+              Active
+            </option>
+            <option
+              value="in-active">
+              In-Active
+            </option>
+            <option
+              value="none">
+              None
+            </option>
+          </select>
+          <div
+            className="text">
+            Active
+          </div>
+          <div
+            className="menu transition">
+            <div
+              aria-checked={true}
+              aria-disabled={undefined}
+              aria-selected={true}
+              className="active selected item"
+              onClick={[Function]}
+              role="option"
+              style={
+                Object {
+                  "pointerEvents": "all",
+                }
+              }>
+              <i
+                aria-hidden="true"
+                className="green power icon" />
+              Active
+            </div>
+            <div
+              aria-checked={false}
+              aria-disabled={undefined}
+              aria-selected={false}
+              className="item"
+              onClick={[Function]}
+              role="option"
+              style={
+                Object {
+                  "pointerEvents": "all",
+                }
+              }>
+              <i
+                aria-hidden="true"
+                className="red power icon" />
+              In-Active
+            </div>
+            <div
+              aria-checked={false}
+              aria-disabled={undefined}
+              aria-selected={false}
+              className="item"
+              onClick={[Function]}
+              role="option"
+              style={
+                Object {
+                  "pointerEvents": "all",
+                }
+              }>
+              <i
+                aria-hidden="true"
+                className="grey power icon" />
+              None
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        aria-busy={undefined}
+        aria-disabled={undefined}
+        aria-expanded={false}
+        aria-multiselectable={undefined}
+        className="ui pointing link item top right dropdown"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onMouseDown={[Function]}
+        role="listbox"
+        style={
+          Object {
+            "float": "right",
+            "fontSize": 20,
+            "marginTop": -30,
+            "paddingRight": 15,
+          }
+        }
+        tabIndex={0}>
+        <div
+          className="text" />
+        <i
+          aria-hidden="true"
+          className="angle down icon" />
+        <div
+          className="menu transition">
+          <div
+            aria-checked={undefined}
+            aria-disabled={undefined}
+            aria-selected={undefined}
+            className="item"
+            onClick={[Function]}
+            role="option"
+            style={
+              Object {
+                "color": "#4183c4",
+              }
+            }>
+            Edit
+          </div>
+          <div
+            aria-checked={undefined}
+            aria-disabled={undefined}
+            aria-selected={undefined}
+            className="item"
+            onClick={[Function]}
+            role="option"
+            style={
+              Object {
+                "color": "#4183c4",
+              }
+            }>
+            Link
+          </div>
+          <div
+            aria-checked={undefined}
+            aria-disabled={undefined}
+            aria-selected={undefined}
+            className="item"
+            onClick={[Function]}
+            role="option"
+            style={
+              Object {
+                "color": "#4183c4",
+              }
+            }>
+            Share
+          </div>
+          <div
+            aria-checked={undefined}
+            aria-disabled={undefined}
+            aria-selected={undefined}
+            className="item"
+            onClick={[Function]}
+            role="option"
+            style={
+              Object {
+                "color": "#4183c4",
+              }
+            }>
+            Add to Logbooks
+          </div>
+          <div
+            className="divider" />
+          <div
+            aria-checked={undefined}
+            aria-disabled={undefined}
+            aria-selected={undefined}
+            className="item"
+            onClick={[Function]}
+            role="option"
+            style={
+              Object {
+                "color": "red",
+              }
+            }>
+            Delete
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="meta"
+      style={
+        Object {
+          "display": "block",
+          "fontSize": 14,
+        }
+      }>
+      <span>
+        Actions Taken
+      </span>
+      <span
+        style={
+          Object {
+            "border": "1px solid #d4d4d5",
+            "fontSize": 14,
+            "marginLeft": 10,
+            "paddingLeft": 2,
+            "paddingRight": 2,
+          }
+        }>
+        Spoke to Resident
+      </span>
+      <span
+        style={
+          Object {
+            "border": "1px solid #d4d4d5",
+            "fontSize": 14,
+            "marginLeft": 10,
+            "paddingLeft": 2,
+            "paddingRight": 2,
+          }
+        }>
+        Jetted Sewer Line
+      </span>
+    </div>
+    <div
+      className="text extra">
+      Test comment 0
+    </div>
+    <div
+      className="meta"
+      style={
+        Object {
+          "marginTop": 5,
+        }
+      } />
+  </div>
+</div>
+`;

@@ -1,0 +1,493 @@
+exports[`test it displays the children with in the wrapper. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={Object {}}>
+    <header
+      style={
+        Object {
+          "backgroundColor": "#468dc8",
+          "height": 40,
+        }
+      }>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "height": "100%",
+            "width": "100%",
+          }
+        }>
+        <div
+          style={
+            Object {
+              "height": "100%",
+            }
+          }>
+          <img
+            alt={undefined}
+            className="ui tiny image"
+            height={undefined}
+            src={undefined}
+            style={
+              Object {
+                "height": 40,
+                "padding": 2,
+              }
+            }
+            width={undefined} />
+        </div>
+        <div
+          style={
+            Object {
+              "MozBoxFlex": "1 0 1px",
+              "WebkitBoxFlex": "1 0 1px",
+              "WebkitFlex": "1 0 1px",
+              "flex": "1 0 1px",
+              "height": "100%",
+              "msFlex": "1 0 1px",
+            }
+          }>
+          <div
+            style={
+              Object {
+                "WebkitJustifyContent": "space-between",
+                "display": "flex",
+                "height": 40,
+                "justifyContent": "space-between",
+              }
+            }>
+            <nav
+              style={
+                Object {
+                  "WebkitJustifyContent": "center",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "height": "100%",
+                  "justifyContent": "center",
+                  "width": 700,
+                }
+              }>
+              <div
+                className="ui inverted secondary menu"
+                style={
+                  Object {
+                    "height": "100%",
+                    "marginBottom": 0,
+                    "marginTop": 0,
+                  }
+                }>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui blue active button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Communication
+                    <i
+                      aria-hidden="true"
+                      className="angle down icon"
+                      style={
+                        Object {
+                          "marginLeft": 15,
+                        }
+                      } />
+                  </button>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui inverted button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Personnel
+                    <i
+                      aria-hidden="true"
+                      className="angle down icon"
+                      style={
+                        Object {
+                          "marginLeft": 15,
+                        }
+                      } />
+                  </button>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui inverted button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Logbook
+                    <i
+                      aria-hidden="true"
+                      className="angle down icon"
+                      style={
+                        Object {
+                          "marginLeft": 15,
+                        }
+                      } />
+                  </button>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui blue button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Add
+                  </button>
+                </div>
+              </div>
+            </nav>
+            <div
+              className="ui inverted secondary menu"
+              style={
+                Object {
+                  "height": "100%",
+                  "marginBottom": 0,
+                  "marginTop": 0,
+                }
+              }>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <i
+                  aria-hidden="true"
+                  className="bug big icon" />
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <i
+                  aria-hidden="true"
+                  className="alarm outline big icon" />
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <i
+                  aria-hidden="true"
+                  className="ellipsis horizontal big icon" />
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <div
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}
+                  style={
+                    Object {
+                      "WebkitJustifyContent": "center",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "height": "100%",
+                      "justifyContent": "center",
+                    }
+                  }>
+                  <i
+                    aria-hidden="true"
+                    className="user big icon" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "display": "flex",
+        "flex": "1 0 1px",
+        "flexDirection": "row",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }>
+        Test Page Content
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it displays the logo using given url. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={Object {}}>
+    <header
+      style={
+        Object {
+          "backgroundColor": "#468dc8",
+          "height": 40,
+        }
+      }>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "height": "100%",
+            "width": "100%",
+          }
+        }>
+        <div
+          style={
+            Object {
+              "height": "100%",
+            }
+          }>
+          <img
+            alt={undefined}
+            className="ui tiny image"
+            height={undefined}
+            src="/path/to/logo.png"
+            style={
+              Object {
+                "height": 40,
+                "padding": 2,
+              }
+            }
+            width={undefined} />
+        </div>
+        <div
+          style={
+            Object {
+              "MozBoxFlex": "1 0 1px",
+              "WebkitBoxFlex": "1 0 1px",
+              "WebkitFlex": "1 0 1px",
+              "flex": "1 0 1px",
+              "height": "100%",
+              "msFlex": "1 0 1px",
+            }
+          }>
+          <div
+            style={
+              Object {
+                "WebkitJustifyContent": "space-between",
+                "display": "flex",
+                "height": 40,
+                "justifyContent": "space-between",
+              }
+            }>
+            <nav
+              style={
+                Object {
+                  "WebkitJustifyContent": "center",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "height": "100%",
+                  "justifyContent": "center",
+                  "width": 700,
+                }
+              }>
+              <div
+                className="ui inverted secondary menu"
+                style={
+                  Object {
+                    "height": "100%",
+                    "marginBottom": 0,
+                    "marginTop": 0,
+                  }
+                }>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui blue active button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Communication
+                    <i
+                      aria-hidden="true"
+                      className="angle down icon"
+                      style={
+                        Object {
+                          "marginLeft": 15,
+                        }
+                      } />
+                  </button>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui inverted button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Personnel
+                    <i
+                      aria-hidden="true"
+                      className="angle down icon"
+                      style={
+                        Object {
+                          "marginLeft": 15,
+                        }
+                      } />
+                  </button>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui inverted button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Logbook
+                    <i
+                      aria-hidden="true"
+                      className="angle down icon"
+                      style={
+                        Object {
+                          "marginLeft": 15,
+                        }
+                      } />
+                  </button>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <button
+                    className="ui blue button"
+                    onClick={[Function]}
+                    tabIndex={undefined}>
+                    Add
+                  </button>
+                </div>
+              </div>
+            </nav>
+            <div
+              className="ui inverted secondary menu"
+              style={
+                Object {
+                  "height": "100%",
+                  "marginBottom": 0,
+                  "marginTop": 0,
+                }
+              }>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <i
+                  aria-hidden="true"
+                  className="bug big icon" />
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <i
+                  aria-hidden="true"
+                  className="alarm outline big icon" />
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <i
+                  aria-hidden="true"
+                  className="ellipsis horizontal big icon" />
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <div
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}
+                  style={
+                    Object {
+                      "WebkitJustifyContent": "center",
+                      "display": "flex",
+                      "flexDirection": "column",
+                      "height": "100%",
+                      "justifyContent": "center",
+                    }
+                  }>
+                  <i
+                    aria-hidden="true"
+                    className="user big icon" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "display": "flex",
+        "flex": "1 0 1px",
+        "flexDirection": "row",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        } />
+    </div>
+  </div>
+</div>
+`;

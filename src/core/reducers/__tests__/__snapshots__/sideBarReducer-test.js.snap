@@ -1,0 +1,3 @@
+exports[`test will throw an error when trying to collapse a unregisted side bar 1`] = `"Side Bar must be registered to update"`;
+
+exports[`test will throw an error when trying to expaned a unregisted side bar 1`] = `"Side Bar must be registered to update"`;

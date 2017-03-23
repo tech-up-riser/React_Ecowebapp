@@ -1,0 +1,61 @@
+exports[`test when expanded, it displays its children in a <Menu.Menu />. 1`] = `
+<div
+  className="menu"
+  expandedWidth={200}>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;
+
+exports[`test when not expaned, it displays its children in a <Menu.Menu />. 1`] = `
+<div
+  className="menu"
+  expandedWidth={200}>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={undefined}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={undefined}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={undefined}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;

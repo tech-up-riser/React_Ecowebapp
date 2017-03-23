@@ -1,0 +1,1 @@
+exports[`test throws an error if the reducer is not in the state 1`] = `"Missing required reducer: SIDEBAR_REDUCER_STATE"`;

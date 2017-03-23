@@ -1,0 +1,33 @@
+exports[`test when expanded, it displays it the close icon. 1`] = `
+<div
+  style={
+    Object {
+      "WebkitJustifyContent": "flex-end",
+      "display": "flex",
+      "height": 20,
+      "justifyContent": "flex-end",
+    }
+  }>
+  <i
+    aria-hidden="true"
+    className="minus circle icon"
+    onClick={undefined} />
+</div>
+`;
+
+exports[`test when not expanded, it displays it the open icon. 1`] = `
+<div
+  style={
+    Object {
+      "WebkitJustifyContent": "flex-end",
+      "display": "flex",
+      "height": 20,
+      "justifyContent": "flex-end",
+    }
+  }>
+  <i
+    aria-hidden="true"
+    className="content large icon"
+    onClick={undefined} />
+</div>
+`;

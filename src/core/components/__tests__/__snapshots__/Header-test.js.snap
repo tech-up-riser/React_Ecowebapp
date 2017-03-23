@@ -1,0 +1,123 @@
+exports[`test it displays the children on the right side. 1`] = `
+<header
+  style={
+    Object {
+      "backgroundColor": "#468dc8",
+      "height": 40,
+    }
+  }>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+        "height": "100%",
+        "width": "100%",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "height": "100%",
+        }
+      }>
+      <img
+        alt={undefined}
+        className="ui tiny image"
+        height={undefined}
+        src={undefined}
+        style={
+          Object {
+            "height": 40,
+            "padding": 2,
+          }
+        }
+        width={undefined} />
+    </div>
+    <div
+      style={
+        Object {
+          "MozBoxFlex": "1 0 1px",
+          "WebkitBoxFlex": "1 0 1px",
+          "WebkitFlex": "1 0 1px",
+          "flex": "1 0 1px",
+          "height": "100%",
+          "msFlex": "1 0 1px",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "WebkitJustifyContent": "space-between",
+            "display": "flex",
+            "height": 40,
+            "justifyContent": "space-between",
+          }
+        }>
+        Header test children
+      </div>
+    </div>
+  </div>
+</header>
+`;
+
+exports[`test it displays the logo using given url. 1`] = `
+<header
+  style={
+    Object {
+      "backgroundColor": "#468dc8",
+      "height": 40,
+    }
+  }>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+        "height": "100%",
+        "width": "100%",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "height": "100%",
+        }
+      }>
+      <img
+        alt={undefined}
+        className="ui tiny image"
+        height={undefined}
+        src="/path/to/logo.png"
+        style={
+          Object {
+            "height": 40,
+            "padding": 2,
+          }
+        }
+        width={undefined} />
+    </div>
+    <div
+      style={
+        Object {
+          "MozBoxFlex": "1 0 1px",
+          "WebkitBoxFlex": "1 0 1px",
+          "WebkitFlex": "1 0 1px",
+          "flex": "1 0 1px",
+          "height": "100%",
+          "msFlex": "1 0 1px",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "WebkitJustifyContent": "space-between",
+            "display": "flex",
+            "height": 40,
+            "justifyContent": "space-between",
+          }
+        } />
+    </div>
+  </div>
+</header>
+`;

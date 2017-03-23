@@ -1,0 +1,223 @@
+exports[`test the catigories selector is displayed in the header, if catigories are given 1`] = `
+<div
+  className="ui vertical menu"
+  style={
+    Object {
+      "backgroundColor": "#f8f8f8",
+      "height": "100%",
+      "position": "relative",
+      "width": undefined,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      style={
+        Object {
+          "WebkitJustifyContent": "space-between",
+          "display": "flex",
+          "height": 20,
+          "justifyContent": "space-between",
+        }
+      }>
+      <h3
+        style={
+          Object {
+            "color": "#5e656a",
+          }
+        } />
+      <div>
+        NYI: catigorie selector
+      </div>
+      <i
+        aria-hidden="true"
+        className="grey minus circle large inverted icon"
+        onClick={undefined} />
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;
+
+exports[`test the title is displayed in the header 1`] = `
+<div
+  className="ui vertical menu"
+  style={
+    Object {
+      "backgroundColor": "#f8f8f8",
+      "height": "100%",
+      "position": "relative",
+      "width": undefined,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      style={
+        Object {
+          "WebkitJustifyContent": "space-between",
+          "display": "flex",
+          "height": 20,
+          "justifyContent": "space-between",
+        }
+      }>
+      <h3
+        style={
+          Object {
+            "color": "#5e656a",
+          }
+        }>
+        Test Title
+      </h3>
+      <i
+        aria-hidden="true"
+        className="grey minus circle large inverted icon"
+        onClick={undefined} />
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;
+
+exports[`test when expanded, it displays its children in a single column at the given width. 1`] = `
+<div
+  className="ui vertical menu"
+  style={
+    Object {
+      "backgroundColor": "#f8f8f8",
+      "height": "100%",
+      "position": "relative",
+      "width": 200,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      style={
+        Object {
+          "WebkitJustifyContent": "space-between",
+          "display": "flex",
+          "height": 20,
+          "justifyContent": "space-between",
+        }
+      }>
+      <h3
+        style={
+          Object {
+            "color": "#5e656a",
+          }
+        } />
+      <i
+        aria-hidden="true"
+        className="grey minus circle large inverted icon"
+        onClick={undefined} />
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;
+
+exports[`test when not expaned, it does not display its children. 1`] = `
+<div
+  className="ui vertical icon menu"
+  style={
+    Object {
+      "backgroundColor": "#f8f8f8",
+      "display": undefined,
+      "height": "100%",
+      "position": "relative",
+      "width": undefined,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      style={
+        Object {
+          "WebkitJustifyContent": "flex-end",
+          "display": "flex",
+          "height": 20,
+          "justifyContent": "flex-end",
+        }
+      }>
+      <i
+        aria-hidden="true"
+        className="content large icon"
+        onClick={undefined} />
+    </div>
+  </div>
+</div>
+`;

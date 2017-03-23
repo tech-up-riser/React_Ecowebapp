@@ -1,0 +1,177 @@
+exports[`test it displays the client name and id. 1`] = `
+<div
+  className="ui inverted secondary menu"
+  style={
+    Object {
+      "height": "100%",
+      "marginBottom": 0,
+      "marginTop": 0,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="bug big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="alarm outline big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="ellipsis horizontal big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      style={
+        Object {
+          "WebkitJustifyContent": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "height": "100%",
+          "justifyContent": "center",
+        }
+      }>
+      <i
+        aria-hidden="true"
+        className="user big icon" />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it only displays the Admin dropdown if isAdmin is set. 1`] = `
+<div
+  className="ui inverted secondary menu"
+  style={
+    Object {
+      "height": "100%",
+      "marginBottom": 0,
+      "marginTop": 0,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="bug big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="alarm outline big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="ellipsis horizontal big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      style={
+        Object {
+          "WebkitJustifyContent": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "height": "100%",
+          "justifyContent": "center",
+        }
+      }>
+      <i
+        aria-hidden="true"
+        className="user big icon" />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it only displays the Admin dropdown if isAdmin is set. 2`] = `
+<div
+  className="ui inverted secondary menu"
+  style={
+    Object {
+      "height": "100%",
+      "marginBottom": 0,
+      "marginTop": 0,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="bug big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="alarm outline big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="settings big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      aria-hidden="true"
+      className="ellipsis horizontal big icon" />
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      style={
+        Object {
+          "WebkitJustifyContent": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "height": "100%",
+          "justifyContent": "center",
+        }
+      }>
+      <i
+        aria-hidden="true"
+        className="user big icon" />
+    </div>
+  </div>
+</div>
+`;

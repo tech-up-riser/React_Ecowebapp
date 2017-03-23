@@ -1,0 +1,136 @@
+exports[`test when expanded, it displays its header / children in a single column at the given width. 1`] = `
+<div
+  className="ui vertical menu"
+  style={
+    Object {
+      "height": "100%",
+      "position": "relative",
+      "width": 200,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <header
+      isExpanded={true}>
+      Test Header
+    </header>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={true}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;
+
+exports[`test when not expaned and hiddenWhenClosed is set, it does not display (style is display: none). 1`] = `
+<div
+  className="ui vertical icon menu"
+  style={
+    Object {
+      "display": "none",
+      "height": "100%",
+      "position": "relative",
+      "width": undefined,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <header
+      isExpanded={false}>
+      Test Header
+    </header>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;
+
+exports[`test when not expaned, it displays its header / children in a single column as thin as it can be. 1`] = `
+<div
+  className="ui vertical icon menu"
+  style={
+    Object {
+      "display": undefined,
+      "height": "100%",
+      "position": "relative",
+      "width": undefined,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <header
+      isExpanded={false}>
+      Test Header
+    </header>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;

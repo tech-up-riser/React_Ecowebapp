@@ -1,0 +1,51 @@
+exports[`test it displays its children in a secondary Menu. 1`] = `
+<div
+  className="ui borderless menu"
+  style={
+    Object {
+      "marginBottom": 0,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div>
+      Test filter 0
+    </div>
+  </div>
+  <div
+    className="right menu">
+    <div
+      className="item"
+      onClick={[Function]}>
+      Test text:
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <div>
+        Test filter 1
+      </div>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <div>
+        Test filter 2
+      </div>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <button
+        className="ui blue button"
+        onClick={[Function]}
+        tabIndex={undefined}>
+        <i
+          aria-hidden="true"
+          className="search icon" />
+      </button>
+    </div>
+  </div>
+</div>
+`;

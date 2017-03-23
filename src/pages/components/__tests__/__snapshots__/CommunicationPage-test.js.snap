@@ -1,0 +1,1139 @@
+exports[`test it displays the children next to the sidebar. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "row",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={
+      Object {
+        "height": "100%",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+          "height": "100%",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "height": "100%",
+          }
+        }>
+        <div
+          className="ui inverted vertical icon menu"
+          style={
+            Object {
+              "MozBorderRadius": 0,
+              "OBorderRadius": 0,
+              "WebkitBorderRadius": 0,
+              "backgroundColor": "#2b5f8c",
+              "borderRadius": 0,
+              "display": undefined,
+              "height": "100%",
+              "msBorderRadius": 0,
+              "position": "relative",
+              "width": undefined,
+            }
+          }>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              style={
+                Object {
+                  "WebkitJustifyContent": "flex-end",
+                  "display": "flex",
+                  "height": 20,
+                  "justifyContent": "flex-end",
+                }
+              }>
+              <i
+                aria-hidden="true"
+                className="content large icon"
+                onClick={[Function]} />
+            </div>
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              className="menu">
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="call large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="file text large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="discussions large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="exclamation triangle large icon" />
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              className="menu">
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="setting large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="archive large icon" />
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "MozBoxFlex": "1 0 1px",
+            "WebkitBoxFlex": "1 0 1px",
+            "WebkitFlex": "1 0 1px",
+            "flex": "1 0 1px",
+            "height": "100%",
+            "msFlex": "1 0 1px",
+          }
+        }>
+        <div
+          className="ui vertical icon menu"
+          style={
+            Object {
+              "backgroundColor": "#f8f8f8",
+              "display": undefined,
+              "height": "100%",
+              "position": "relative",
+              "width": undefined,
+            }
+          }>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              style={
+                Object {
+                  "WebkitJustifyContent": "flex-end",
+                  "display": "flex",
+                  "height": 20,
+                  "justifyContent": "flex-end",
+                }
+              }>
+              <i
+                aria-hidden="true"
+                className="content large icon"
+                onClick={[Function]} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "flex": "1 0 1px",
+        "height": "100%",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <section
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "column",
+            "height": "100%",
+            "width": "100%",
+          }
+        }>
+        <div
+          style={Object {}}>
+          <header
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+                "paddingTop": 15,
+                "position": "relative",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "display": "inline-flex",
+                  "paddingBottom": 20,
+                  "paddingLeft": 20,
+                }
+              }>
+              <div
+                className="ui left icon input"
+                style={
+                  Object {
+                    "width": 400,
+                  }
+                }>
+                <i
+                  aria-hidden="true"
+                  className="search icon" />
+                <input
+                  type="text" />
+              </div>
+              <div
+                style={
+                  Object {
+                    "marginLeft": -50,
+                    "paddingTop": 10,
+                    "zIndex": 1001,
+                  }
+                }>
+                <a>
+                  <i
+                    aria-hidden="true"
+                    className="close icon" />
+                </a>
+                <a>
+                  <i
+                    aria-hidden="true"
+                    className="black caret down icon" />
+                </a>
+              </div>
+              <button
+                className="ui primary button"
+                onClick={[Function]}
+                style={
+                  Object {
+                    "marginLeft": 20,
+                    "width": 100,
+                  }
+                }
+                tabIndex={undefined}>
+                Search
+              </button>
+            </div>
+            <div>
+              <div
+                style={
+                  Object {
+                    "paddingLeft": 18,
+                    "width": "60%",
+                  }
+                }>
+                <h3
+                  style={
+                    Object {
+                      "marginBottom": 0,
+                    }
+                  }>
+                  
+                </h3>
+                <span>
+                  In 
+                  <a>
+                    Operations
+                  </a>
+                   > 
+                  <a>
+                    Daily Check-sheet
+                  </a>
+                   | Department Admionistration
+                </span>
+              </div>
+              <div
+                aria-busy={undefined}
+                aria-disabled={undefined}
+                aria-expanded={false}
+                aria-multiselectable={undefined}
+                className="ui selection dropdown"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                role="listbox"
+                style={
+                  Object {
+                    "backgroundColor": "green",
+                    "color": "white",
+                    "float": "right",
+                    "marginRight": 15,
+                    "marginTop": -35,
+                  }
+                }
+                tabIndex={0}>
+                <select
+                  aria-hidden="true"
+                  multiple={undefined}
+                  name={undefined}
+                  type="hidden"
+                  value="">
+                  <option
+                    value="" />
+                  <option
+                    value="active">
+                    Active
+                  </option>
+                  <option
+                    value="in-active">
+                    In-Active
+                  </option>
+                  <option
+                    value="none">
+                    None
+                  </option>
+                </select>
+                <div
+                  className="default text">
+                  Status
+                </div>
+                <i
+                  aria-hidden="true"
+                  className="dropdown icon" />
+                <div
+                  className="menu transition">
+                  <div
+                    aria-checked={false}
+                    aria-disabled={undefined}
+                    aria-selected={true}
+                    className="selected item"
+                    onClick={[Function]}
+                    role="option"
+                    style={
+                      Object {
+                        "pointerEvents": "all",
+                      }
+                    }>
+                    Active
+                  </div>
+                  <div
+                    aria-checked={false}
+                    aria-disabled={undefined}
+                    aria-selected={false}
+                    className="item"
+                    onClick={[Function]}
+                    role="option"
+                    style={
+                      Object {
+                        "pointerEvents": "all",
+                      }
+                    }>
+                    In-Active
+                  </div>
+                  <div
+                    aria-checked={false}
+                    aria-disabled={undefined}
+                    aria-selected={false}
+                    className="item"
+                    onClick={[Function]}
+                    role="option"
+                    style={
+                      Object {
+                        "pointerEvents": "all",
+                      }
+                    }>
+                    None
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              style={
+                Object {
+                  "position": "relative",
+                }
+              }>
+              <div
+                className="ui secondary menu">
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="commenting icon" />
+                  <span>
+                    Comment
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="tag icon" />
+                  <span>
+                    Logbook
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="share icon" />
+                  <span>
+                    Share
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="edit icon" />
+                  <span>
+                    Edit
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="trash outline icon" />
+                  <span>
+                    Delete
+                  </span>
+                </div>
+              </div>
+              <div
+                className="ui tabular menu"
+                style={
+                  Object {
+                    "paddingLeft": 10,
+                  }
+                }>
+                <div
+                  className="active item"
+                  onClick={[Function]}>
+                  <a
+                    onClick={[Function]}
+                    style={Object {}}>
+                    Details
+                  </a>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <a
+                    onClick={[Function]}
+                    style={Object {}}>
+                    Comments
+                  </a>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <a
+                    onClick={[Function]}
+                    style={Object {}}>
+                    Activity
+                  </a>
+                </div>
+              </div>
+            </div>
+          </header>
+        </div>
+        <div
+          style={
+            Object {
+              "MozBoxFlex": "1 0 1px",
+              "WebkitBoxFlex": "1 0 1px",
+              "WebkitFlex": "1 0 1px",
+              "display": "flex",
+              "flex": "1 0 1px",
+              "flexDirection": "row",
+              "msFlex": "1 0 1px",
+            }
+          }>
+          <div
+            style={
+              Object {
+                "position": "relative",
+                "width": "100%",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }>
+              <div
+                style={
+                  Object {
+                    "height": "100%",
+                    "paddingLeft": 20,
+                    "paddingRight": 20,
+                  }
+                }>
+                Test Communication Page Content
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;
+
+exports[`test it displays the given results in the sidebar. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "row",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={
+      Object {
+        "height": "100%",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+          "height": "100%",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "height": "100%",
+          }
+        }>
+        <div
+          className="ui inverted vertical icon menu"
+          style={
+            Object {
+              "MozBorderRadius": 0,
+              "OBorderRadius": 0,
+              "WebkitBorderRadius": 0,
+              "backgroundColor": "#2b5f8c",
+              "borderRadius": 0,
+              "display": undefined,
+              "height": "100%",
+              "msBorderRadius": 0,
+              "position": "relative",
+              "width": undefined,
+            }
+          }>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              style={
+                Object {
+                  "WebkitJustifyContent": "flex-end",
+                  "display": "flex",
+                  "height": 20,
+                  "justifyContent": "flex-end",
+                }
+              }>
+              <i
+                aria-hidden="true"
+                className="content large icon"
+                onClick={[Function]} />
+            </div>
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              className="menu">
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="call large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="file text large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="discussions large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="exclamation triangle large icon" />
+                </span>
+              </div>
+            </div>
+          </div>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              className="menu">
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="setting large icon" />
+                </span>
+              </div>
+              <div
+                className="item"
+                onClick={[Function]}>
+                <span
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onMouseEnter={[Function]}
+                  onMouseLeave={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="archive large icon" />
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "MozBoxFlex": "1 0 1px",
+            "WebkitBoxFlex": "1 0 1px",
+            "WebkitFlex": "1 0 1px",
+            "flex": "1 0 1px",
+            "height": "100%",
+            "msFlex": "1 0 1px",
+          }
+        }>
+        <div
+          className="ui vertical icon menu"
+          style={
+            Object {
+              "backgroundColor": "#f8f8f8",
+              "display": undefined,
+              "height": "100%",
+              "position": "relative",
+              "width": undefined,
+            }
+          }>
+          <div
+            className="item"
+            onClick={[Function]}>
+            <div
+              style={
+                Object {
+                  "WebkitJustifyContent": "flex-end",
+                  "display": "flex",
+                  "height": 20,
+                  "justifyContent": "flex-end",
+                }
+              }>
+              <i
+                aria-hidden="true"
+                className="content large icon"
+                onClick={[Function]} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "flex": "1 0 1px",
+        "height": "100%",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <section
+      style={
+        Object {
+          "height": "100%",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "column",
+            "height": "100%",
+            "width": "100%",
+          }
+        }>
+        <div
+          style={Object {}}>
+          <header
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "column",
+                "paddingTop": 15,
+                "position": "relative",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "display": "inline-flex",
+                  "paddingBottom": 20,
+                  "paddingLeft": 20,
+                }
+              }>
+              <div
+                className="ui left icon input"
+                style={
+                  Object {
+                    "width": 400,
+                  }
+                }>
+                <i
+                  aria-hidden="true"
+                  className="search icon" />
+                <input
+                  type="text" />
+              </div>
+              <div
+                style={
+                  Object {
+                    "marginLeft": -50,
+                    "paddingTop": 10,
+                    "zIndex": 1001,
+                  }
+                }>
+                <a>
+                  <i
+                    aria-hidden="true"
+                    className="close icon" />
+                </a>
+                <a>
+                  <i
+                    aria-hidden="true"
+                    className="black caret down icon" />
+                </a>
+              </div>
+              <button
+                className="ui primary button"
+                onClick={[Function]}
+                style={
+                  Object {
+                    "marginLeft": 20,
+                    "width": 100,
+                  }
+                }
+                tabIndex={undefined}>
+                Search
+              </button>
+            </div>
+            <div>
+              <div
+                style={
+                  Object {
+                    "paddingLeft": 18,
+                    "width": "60%",
+                  }
+                }>
+                <h3
+                  style={
+                    Object {
+                      "marginBottom": 0,
+                    }
+                  }>
+                  
+                </h3>
+                <span>
+                  In 
+                  <a>
+                    Operations
+                  </a>
+                   > 
+                  <a>
+                    Daily Check-sheet
+                  </a>
+                   | Department Admionistration
+                </span>
+              </div>
+              <div
+                aria-busy={undefined}
+                aria-disabled={undefined}
+                aria-expanded={false}
+                aria-multiselectable={undefined}
+                className="ui selection dropdown"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onClick={[Function]}
+                onFocus={[Function]}
+                onMouseDown={[Function]}
+                role="listbox"
+                style={
+                  Object {
+                    "backgroundColor": "green",
+                    "color": "white",
+                    "float": "right",
+                    "marginRight": 15,
+                    "marginTop": -35,
+                  }
+                }
+                tabIndex={0}>
+                <select
+                  aria-hidden="true"
+                  multiple={undefined}
+                  name={undefined}
+                  type="hidden"
+                  value="">
+                  <option
+                    value="" />
+                  <option
+                    value="active">
+                    Active
+                  </option>
+                  <option
+                    value="in-active">
+                    In-Active
+                  </option>
+                  <option
+                    value="none">
+                    None
+                  </option>
+                </select>
+                <div
+                  className="default text">
+                  Status
+                </div>
+                <i
+                  aria-hidden="true"
+                  className="dropdown icon" />
+                <div
+                  className="menu transition">
+                  <div
+                    aria-checked={false}
+                    aria-disabled={undefined}
+                    aria-selected={true}
+                    className="selected item"
+                    onClick={[Function]}
+                    role="option"
+                    style={
+                      Object {
+                        "pointerEvents": "all",
+                      }
+                    }>
+                    Active
+                  </div>
+                  <div
+                    aria-checked={false}
+                    aria-disabled={undefined}
+                    aria-selected={false}
+                    className="item"
+                    onClick={[Function]}
+                    role="option"
+                    style={
+                      Object {
+                        "pointerEvents": "all",
+                      }
+                    }>
+                    In-Active
+                  </div>
+                  <div
+                    aria-checked={false}
+                    aria-disabled={undefined}
+                    aria-selected={false}
+                    className="item"
+                    onClick={[Function]}
+                    role="option"
+                    style={
+                      Object {
+                        "pointerEvents": "all",
+                      }
+                    }>
+                    None
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              style={
+                Object {
+                  "position": "relative",
+                }
+              }>
+              <div
+                className="ui secondary menu">
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="commenting icon" />
+                  <span>
+                    Comment
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="tag icon" />
+                  <span>
+                    Logbook
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="share icon" />
+                  <span>
+                    Share
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="edit icon" />
+                  <span>
+                    Edit
+                  </span>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <i
+                    aria-hidden="true"
+                    className="trash outline icon" />
+                  <span>
+                    Delete
+                  </span>
+                </div>
+              </div>
+              <div
+                className="ui tabular menu"
+                style={
+                  Object {
+                    "paddingLeft": 10,
+                  }
+                }>
+                <div
+                  className="active item"
+                  onClick={[Function]}>
+                  <a
+                    onClick={[Function]}
+                    style={Object {}}>
+                    Details
+                  </a>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <a
+                    onClick={[Function]}
+                    style={Object {}}>
+                    Comments
+                  </a>
+                </div>
+                <div
+                  className="item"
+                  onClick={[Function]}>
+                  <a
+                    onClick={[Function]}
+                    style={Object {}}>
+                    Activity
+                  </a>
+                </div>
+              </div>
+            </div>
+          </header>
+        </div>
+        <div
+          style={
+            Object {
+              "MozBoxFlex": "1 0 1px",
+              "WebkitBoxFlex": "1 0 1px",
+              "WebkitFlex": "1 0 1px",
+              "display": "flex",
+              "flex": "1 0 1px",
+              "flexDirection": "row",
+              "msFlex": "1 0 1px",
+            }
+          }>
+          <div
+            style={
+              Object {
+                "position": "relative",
+                "width": "100%",
+              }
+            }>
+            <div
+              style={
+                Object {
+                  "bottom": 0,
+                  "left": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                }
+              }>
+              <div
+                style={
+                  Object {
+                    "height": "100%",
+                    "paddingLeft": 20,
+                    "paddingRight": 20,
+                  }
+                }>
+                Test Communication Page Content
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

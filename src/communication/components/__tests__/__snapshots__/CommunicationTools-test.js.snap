@@ -1,0 +1,293 @@
+exports[`test it displays the given tab as selected. 1`] = `
+<div
+  style={
+    Object {
+      "position": "relative",
+    }
+  }>
+  <div
+    className="ui secondary menu">
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="commenting icon" />
+      <span>
+        Comment
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="tag icon" />
+      <span>
+        Logbook
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="share icon" />
+      <span>
+        Share
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="edit icon" />
+      <span>
+        Edit
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="trash outline icon" />
+      <span>
+        Delete
+      </span>
+    </div>
+  </div>
+  <div
+    className="ui tabular menu"
+    style={
+      Object {
+        "paddingLeft": 10,
+      }
+    }>
+    <div
+      className="active item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Details
+      </a>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Comments
+      </a>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Activity
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it displays the given tab as selected. 2`] = `
+<div
+  style={
+    Object {
+      "position": "relative",
+    }
+  }>
+  <div
+    className="ui secondary menu">
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="commenting icon" />
+      <span>
+        Comment
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="tag icon" />
+      <span>
+        Logbook
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="share icon" />
+      <span>
+        Share
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="edit icon" />
+      <span>
+        Edit
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="trash outline icon" />
+      <span>
+        Delete
+      </span>
+    </div>
+  </div>
+  <div
+    className="ui tabular menu"
+    style={
+      Object {
+        "paddingLeft": 10,
+      }
+    }>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Details
+      </a>
+    </div>
+    <div
+      className="active item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Comments
+      </a>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Activity
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it displays the given tab as selected. 3`] = `
+<div
+  style={
+    Object {
+      "position": "relative",
+    }
+  }>
+  <div
+    className="ui secondary menu">
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="commenting icon" />
+      <span>
+        Comment
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="tag icon" />
+      <span>
+        Logbook
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="share icon" />
+      <span>
+        Share
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="edit icon" />
+      <span>
+        Edit
+      </span>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <i
+        aria-hidden="true"
+        className="trash outline icon" />
+      <span>
+        Delete
+      </span>
+    </div>
+  </div>
+  <div
+    className="ui tabular menu"
+    style={
+      Object {
+        "paddingLeft": 10,
+      }
+    }>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Details
+      </a>
+    </div>
+    <div
+      className="item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Comments
+      </a>
+    </div>
+    <div
+      className="active item"
+      onClick={[Function]}>
+      <a
+        onClick={[Function]}
+        style={Object {}}>
+        Activity
+      </a>
+    </div>
+  </div>
+</div>
+`;

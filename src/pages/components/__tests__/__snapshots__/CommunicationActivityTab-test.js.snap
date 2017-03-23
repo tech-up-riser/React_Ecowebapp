@@ -1,0 +1,9 @@
+exports[`test it displays the given activity. 1`] = `
+<div
+  className="ui threaded comments"
+  style={
+    Object {
+      "paddingTop": 20,
+    }
+  } />
+`;

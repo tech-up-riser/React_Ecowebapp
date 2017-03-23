@@ -1,0 +1,61 @@
+exports[`test it displays its children below the header. 1`] = `
+<div
+  className="ui inverted vertical icon menu"
+  style={
+    Object {
+      "MozBorderRadius": 0,
+      "OBorderRadius": 0,
+      "WebkitBorderRadius": 0,
+      "backgroundColor": "#2b5f8c",
+      "borderRadius": 0,
+      "display": undefined,
+      "height": "100%",
+      "msBorderRadius": 0,
+      "position": "relative",
+      "width": undefined,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div
+      style={
+        Object {
+          "WebkitJustifyContent": "flex-end",
+          "display": "flex",
+          "height": 20,
+          "justifyContent": "flex-end",
+        }
+      }>
+      <i
+        aria-hidden="true"
+        className="content large icon"
+        onClick={undefined} />
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 0
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 1
+    </i>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <i
+      isExpanded={false}>
+      Test Child 2
+    </i>
+  </div>
+</div>
+`;

@@ -1,0 +1,33 @@
+exports[`test it displays its children an inverted secondary semantic-ui Menu. 1`] = `
+<div
+  className="ui inverted secondary menu"
+  style={
+    Object {
+      "height": "100%",
+      "marginBottom": 0,
+      "marginTop": 0,
+    }
+  }>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div>
+      Test Header Item 0
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div>
+      Test Header Item 1
+    </div>
+  </div>
+  <div
+    className="item"
+    onClick={[Function]}>
+    <div>
+      Test Header Item 2
+    </div>
+  </div>
+</div>
+`;

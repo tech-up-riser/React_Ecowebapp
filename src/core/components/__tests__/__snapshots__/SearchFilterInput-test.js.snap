@@ -1,0 +1,32 @@
+exports[`test it displays the semantic-ui-react Select for search filters. 1`] = `
+<div
+  aria-busy={undefined}
+  aria-disabled={undefined}
+  aria-expanded={false}
+  aria-multiselectable={true}
+  className="ui multiple selection dropdown"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseDown={[Function]}
+  role="listbox"
+  tabIndex={0}>
+  <select
+    aria-hidden="true"
+    multiple={true}
+    name={undefined}
+    type="hidden"
+    value={Array []}>
+    <option
+      value="" />
+  </select>
+  <div
+    className="text" />
+  <i
+    aria-hidden="true"
+    className="dropdown icon" />
+  <div
+    className="menu transition" />
+</div>
+`;

@@ -1,0 +1,158 @@
+exports[`test it throws an error when called with one child. 1`] = `"FillRemaining must contain more then one child."`;
+
+exports[`test it throws an error when called with one child. 2`] = `"Invalid direction, not-row-or-column, for FillRemaining."`;
+
+exports[`test it uses column as the flex-direction if the direction prop is not given. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={Object {}}>
+    <div>
+      First Child
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "display": "flex",
+        "flex": "1 0 1px",
+        "flexDirection": "row",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }>
+        <div>
+          Second Child
+        </div>
+        <div>
+          Third Child
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it uses the flex-direction given by direction prop. 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "row",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={
+      Object {
+        "height": "100%",
+      }
+    }>
+    <div>
+      First Child
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "flex": "1 0 1px",
+        "height": "100%",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div>
+      Second Child
+    </div>
+    <div>
+      Third Child
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test it uses the flex-direction given by direction prop. 2`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "100%",
+      "width": "100%",
+    }
+  }>
+  <div
+    style={Object {}}>
+    <div>
+      First Child
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "MozBoxFlex": "1 0 1px",
+        "WebkitBoxFlex": "1 0 1px",
+        "WebkitFlex": "1 0 1px",
+        "display": "flex",
+        "flex": "1 0 1px",
+        "flexDirection": "row",
+        "msFlex": "1 0 1px",
+      }
+    }>
+    <div
+      style={
+        Object {
+          "position": "relative",
+          "width": "100%",
+        }
+      }>
+      <div
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }>
+        <div>
+          Second Child
+        </div>
+        <div>
+          Third Child
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
